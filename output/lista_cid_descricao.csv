@@ -1,0 +1,42 @@
+CID,FREQUÊNCIA,DESCRIÇÃO
+J00,19,Resfriado comum
+A09,15,Diarreia e gastroenterite de origem infecciosa presumível
+R05,10,Tosse
+R10,6,Dor abdominal
+N39.0,5,Infecção urinária
+Z76,3,Orientação gerais
+M79.1,3,Mialgia
+M54.5,2,Lombalgia
+R51,2,Cefaleia
+M75,2,Lesões no ombro
+K08.80,2,Odontalgia
+Z03,2,Observação por suspeita de doença
+R53,1,Descrição não encontrada
+M75.5,1,Bursite
+F509,1,Descrição não encontrada
+M54.6,1,Dor na coluna
+H83,1,Outros transtornos do ouvido interno
+M62.6,1,Distenção muscular
+H10,1,Conjuntivite
+H65,1,Otite
+J11,1,Gripe
+L01,1,Impetigo
+Z480,1,Curativo
+H61,1,Outros transtornos do ouvido externo
+K29,1,Gastrite
+R11,1,Emese
+R50.9,1,"Febre, não especificada"
+Z32,1,Descrição não encontrada
+R55,1,Síncope e colapso
+B002,1,Descrição não encontrada
+L02,1,Furúnculo
+R73,1,Hiperglicemia
+K59,1,Constipação
+N76.1,1,Vaginose bacteriana
+B37,1,Candidíase
+Z03.,1,Descrição não encontrada
+Z01.3,1,Descrição não encontrada
+T301,1,Queimadura de primeiro grau
+Z34,1,Gestação de baixo risco
+E86,1,Desidratação
+Z480,1,Descrição não encontrada
